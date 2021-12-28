@@ -5,11 +5,14 @@
 
 /* Song */
 article.song {
+    font-size: 18pt;
     white-space: pre-line;
 
     h3 {
         text-transform: uppercase;
         font-weight: bolder;
+        white-space: normal;
+        margin: 5px 0 0 0;
     }
 
 }
