@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Song */
+article.song {
+    white-space: pre-line;
+
+    h3 {
+        text-transform: uppercase;
+        font-weight: bolder;
+    }
+
+}
+
