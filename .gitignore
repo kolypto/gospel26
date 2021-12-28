@@ -1,3 +1,10 @@
+/_site
+
+# Hidden files
+/.*
+!.gitignore
+!.gitkeep
+
 # Temps
 *~
 *.tmp
